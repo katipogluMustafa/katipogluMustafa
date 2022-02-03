@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning to become a [Cyber Architect](https://medium.com/cyber-architect/cyber-architect-curriculum-6816771a8447)
+- 🌱 I’m currently training to become a [Cyber Architect](https://medium.com/cyber-architect/cyber-architect-curriculum-6816771a8447)
 - ✍🏻 I write on Medium as [Mustafa Katipoğlu](https://mustafakatipoglu.medium.com/)
 - 📫 My Medium Publications:
   - [Cyber Architect](https://medium.com/cyber-architect)
