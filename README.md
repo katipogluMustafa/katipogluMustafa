@@ -4,6 +4,7 @@
 - ✍🏻 I write on Medium as [Mustafa Katipoğlu](https://mustafakatipoglu.medium.com/)
 - 📫 My Medium Publications:
   - [Cyber Architect](https://medium.com/cyber-architect)
+  - [Cyber Explorer](https://medium.com/cyber-explorer)
   - [Sosyomakinist (Turkish) ](https://medium.com/sosyo-makinist)
   - [Recommendation Systems](https://medium.com/recommendation-systems)
 - 📫 How to reach me:
