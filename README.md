@@ -1,6 +1,12 @@
 ### Hi there 👋
 
 - 🌱 I’m currently training to become a [Cyber Architect](https://medium.com/cyber-architect/cyber-architect-curriculum-6816771a8447)
+
+- Active Research & Development:
+  - [The Golden Spiral Version](https://github.com/Golden-Spiral-Version)
+  - [Cyber Architect](https://github.com/Cyber-Architect) 
+  - [File System Explorer](https://github.com/File-System-Explorer) 
+
 - ✍🏻 I write on Medium as [Mustafa Katipoğlu](https://mustafakatipoglu.medium.com/)
 - 📫 My Medium Publications:
   - [Cyber Architect](https://medium.com/cyber-architect)
