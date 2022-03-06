@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently training to become a [Cyber Architect](https://medium.com/cyber-architect/cyber-architect-curriculum-6816771a8447)
+- 🌱 I’m currently training to become a [Cyber Architect](https://github.com/Cyber-Architect/Curriculum)
 
 - Active Research & Development:
   - [The Golden Spiral Version](https://github.com/Golden-Spiral-Version)
