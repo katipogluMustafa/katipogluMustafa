@@ -8,7 +8,7 @@
   - [Sosyomakinist (Turkish) ](https://medium.com/sosyo-makinist)
   - [Recommendation Systems](https://medium.com/recommendation-systems)
 - 📫 How to reach me:
-  -  Mail me: <a href="mailto:mustafa.katipoglu@tubitak.gov.tr">Mustafa Katipoğlu</a>
+  -  Mail me: <a href="mailto:mustafa.katipoglu@outlook.com">Mustafa Katipoğlu</a>
 
 <!--
 **katipogluMustafa/katipogluMustafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
