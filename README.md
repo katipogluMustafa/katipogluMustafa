@@ -16,6 +16,8 @@
 - 📫 How to reach me:
   -  Mail me: <a href="mailto:mustafa.katipoglu@outlook.com">Mustafa Katipoğlu</a>
 
+![](https://komarev.com/ghpvc/?username=katipogluMustafa&label=%23&color=gray)
+
 <!--
 **katipogluMustafa/katipogluMustafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
