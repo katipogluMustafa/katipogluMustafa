@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=katipogluMustafa&show_icons=true&count_private=true&theme=radical" alt="mustafa katipoglu" width="480" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=katipogluMustafa&layout=compact&hide=html,jupyter%20notebook&langs_count=7&theme=radical" alt="mustafa katipoglu"/>
+</p>
+
 - 🌱 I’m currently training to become a [Cyber Architect](https://github.com/Cyber-Architect/Curriculum)
 
 - Active Research & Development:
@@ -16,7 +21,7 @@
 - 📫 How to reach me:
   -  Mail me: <a href="mailto:mustafa.katipoglu@outlook.com">Mustafa Katipoğlu</a>
 
-![](https://komarev.com/ghpvc/?username=katipogluMustafa&label=%23&color=gray)
+![Views](https://komarev.com/ghpvc/?username=katipogluMustafa&label=%23&color=gray)
 
 <!--
 **katipogluMustafa/katipogluMustafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
