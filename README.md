@@ -16,7 +16,6 @@
 - 📫 My Medium Publications:
   - [Cyber Architect](https://medium.com/cyber-architect)
   - [Cyber Explorer](https://medium.com/cyber-explorer)
-  - [Sosyomakinist (Turkish) ](https://medium.com/sosyo-makinist)
   - [Recommendation Systems](https://medium.com/recommendation-systems)
 - 📫 How to reach me:
   -  Mail me: <a href="mailto:mustafa.katipoglu@outlook.com">Mustafa Katipoğlu</a>
